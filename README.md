@@ -1,2 +1,3 @@
 # Automated-EDA-tools
 To save your time in exploratory data analysis then we can use python libraries like dtale, pandas profiling, sweetviz, dataprep and autoviz to automate our tasks.
+In the lifecycle of a data science project or any machine learning project, more than 60% of your time goes into stuff like data analysis, feature selection, feature engineering, etc. Because it is the most important part or backbone of a data science project is that particular part itself where you have to a lot of activities like cleaning the data, handling missing values, handle outliers, handle imbalanced datasets, how to handle categorical features, and many more.
